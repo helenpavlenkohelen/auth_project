@@ -31,7 +31,7 @@ _registration_
 
 _host_
 
--   [The code creates a constant host and assigns it the string value URL]('https://garevna-rest-api.glitch.me'). -
+- The code creates a constant host and assigns it the string value URL `'https://garevna-rest-api.glitch.me'`. -
 
 # helpers:
 
